@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": "FP7-fzD13Puk0X9qQq-wl",
+      "title": "Hello World",
+      "content": "#  First Post!\n\nThis is my first Post...",
+      "updatedAt": "2025-06-19T14:14:00.119Z"
+    },
+    {
+      "id": "VMV_nsM8DqD7He4NSNGZx",
+      "title": "Another Post",
+      "content": "Markdown list\n- First\n- Second\n- Third",
+      "updatedAt": "2025-06-19T14:28:35.205Z"
+    }
+  ]
+}
